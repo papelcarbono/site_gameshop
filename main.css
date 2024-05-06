@@ -279,10 +279,8 @@ footer p {
         margin-left: 0;
     }
 
-    .oculto,
-    .oculto2 {
+    .oculto {
         display: none;
-        margin-top: 12px;
-        font-size: 14px;
+    
     }
 }
